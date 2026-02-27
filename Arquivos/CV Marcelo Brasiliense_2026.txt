@@ -1,0 +1,155 @@
+MARCELO BRASILIENSE
+Coordenador de Desenvolvimento | Analista Contábil | Desenvolvedor Back End
+TOTVS | Domínio | MXM | SAP | Data Science | Machine Learning | RPA
+Accounting Technology | Python | VBA | Power Query | DAX | Java | C#
+
+Rio de Janeiro – RJ
+Telefone: 21 96482-0496
+Email: ml.candido2014@gmail.com
+LinkedIn: www.linkedin.com/in/marcelobrasiliense
+
+------------------------------------------------------------
+RESUMO PROFISSIONAL
+------------------------------------------------------------
+
+Profissional com sólida experiência em Contabilidade Societária e Fiscal,
+atuando em empresas de Lucro Real e Lucro Presumido, com foco em
+indústrias e empresas de serviços.
+
+Experiência na entrega de obrigações acessórias (SPED, ECD, EFD,
+EFD-Reinf), fechamentos contábeis mensais e anuais, análises patrimoniais
+e elaboração de relatórios gerenciais para clientes nacionais e
+internacionais (Japão, Itália, México e Holanda).
+
+Atuação estratégica na implementação e modernização de ecossistemas
+tecnológicos contábeis, liderando projetos de transformação digital com
+ERPs como Domínio, TOTVS, Omie, SAP, MXM e WK Radar.
+
+Especialista em automações contábeis, fiscais e de departamento pessoal
+utilizando Python, VBA, Power Query, DAX, SQL e integrações via API.
+Experiência com n8n, Make e Power Automate.
+
+Atualmente atuando como Coordenador de Desenvolvimento e Automação
+com foco em:
+
+- Transformação digital e inovação contábil
+- Implementação de Inteligência Artificial e agentes autônomos
+- Criação de fluxos automatizados end-to-end
+- Governança tecnológica e segurança da informação
+- Gestão de projetos e portfólio de tecnologia
+- Otimização de processos internos e eficiência operacional
+
+Perfil híbrido integrando Contabilidade, Tecnologia, Data Analytics
+e Inteligência Artificial aplicada a negócios.
+
+------------------------------------------------------------
+EXPERIÊNCIA PROFISSIONAL
+------------------------------------------------------------
+
+IRKO Outsourcing
+Coordenador de Desenvolvimento e Automações
+Mar/2025 – Atual | Rio de Janeiro
+
+- Gestão de portfólio de projetos de tecnologia
+- Definição de roadmap e acompanhamento de KPIs
+- Implementação de automações com n8n, Make e Power Automate
+- Integrações via API entre múltiplos sistemas
+- Aplicação de IA e agentes autônomos para análises e validações
+- Desenvolvimento de dashboards (Power BI, Power Query, DAX)
+- Gestão de riscos tecnológicos e governança digital
+- Interface direta com diretoria e stakeholders
+
+IRKO Outsourcing
+Analista Contábil Sr
+Abr/2024 – Abr/2025
+
+- Apuração e revisão de PIS, COFINS, IRPJ e CSLL
+- Conciliação contábil (Lucro Real e Presumido)
+- IFRS 16 / CPC 06 (R2)
+- Elaboração e validação de SPED (EFD, EFD-Reinf, ECD)
+- Desenvolvimento de dashboards e KPIs
+- Automação com Python
+- Aplicação de IA para análise preditiva
+- Desenvolvimento de integrações em Java
+
+IRKO Outsourcing
+Analista Contábil Jr
+Jun/2023 – Abr/2024
+
+- Apuração de impostos (PIS/COFINS, IR/CS)
+- Conciliações patrimoniais
+- Revisão de tributos retidos
+- Fechamento contábil
+- Relatórios gerenciais para CEO/CFO
+- Automação com Power BI e Python
+
+Plane Assessoria Contábil e Empresarial
+Analista Contábil
+Fev/2023 – Jun/2023
+
+- Análise patrimonial
+- Apuração de impostos
+- Conciliações
+- Automação com Python, VBA e Access
+- Dashboards gerenciais
+
+IRKO Outsourcing
+Desenvolvedor de Automação Contábil
+Set/2022 – Fev/2023
+
+- Criação de sistemas e bots (RPA)
+- Implementação de ERPs (Domínio, TOTVS, WK, Omie)
+- Desenvolvimento de relatórios em Excel e VBA
+- Estruturação de bases SQL
+
+IRKO Outsourcing
+Assistente Contábil
+Abr/2022 – Ago/2022
+
+IRKO Outsourcing
+Auxiliar Contábil
+Dez/2020 – Mar/2022
+
+IRKO Outsourcing
+Jovem Aprendiz
+Mar/2020 – Nov/2020
+
+------------------------------------------------------------
+FORMAÇÃO ACADÊMICA
+------------------------------------------------------------
+
+ACCA
+Diploma in International Financial Reporting (DipIFR)
+2025
+
+FIAP
+MBA em Gestão de Tecnologia e Transformação Digital
+2024 – 2025
+
+Hashtag Treinamentos
+N8N & AI Implementation
+2025 – 2026
+
+Hashtag Treinamentos
+Data Analytics & AI
+2024 – 2025
+
+Fundação de Ensino Fluidz
+Bitrix24 – Gestão de Projetos
+2025
+
+------------------------------------------------------------
+PRINCIPAIS COMPETÊNCIAS
+------------------------------------------------------------
+
+- Escrituração contábil
+- Demonstrações financeiras
+- IFRS / CPC
+- Power BI / Power Query / DAX
+- Python (Pandas, NumPy)
+- SQL
+- VBA
+- Integrações via API
+- RPA
+- Machine Learning aplicado
+- Governança tecnológica
