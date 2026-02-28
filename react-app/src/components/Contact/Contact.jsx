@@ -51,18 +51,34 @@ export default function Contact() {
                         <p className="contact-sub">
                             Aberto a projetos freelance, posições full-time e parcerias estratégicas. Respondo em até 24h.
                         </p>
-                        <div className="contact-links">
-                            <a href="mailto:marcelo@exemplo.com" className="contact-link-item" aria-label="Enviar email">
-                                <div className="clink-icon" aria-hidden="true">@</div>
-                                <span>marcelo@exemplo.com</span>
+                        <div className="contact-links" style={{ marginTop: '2rem' }}>
+                            <a href="mailto:ml.candido2014@gmail.com" className="contact-item-v2" aria-label="Enviar email">
+                                <div className="contact-icon-v2" aria-hidden="true">@</div>
+                                <div className="contact-text-v2">
+                                    <span className="contact-label-v2">E-mail</span>
+                                    <span className="contact-value-v2">ml.candido2014@gmail.com</span>
+                                </div>
                             </a>
-                            <a href="https://linkedin.com/in/mbrasiliense" className="contact-link-item" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-                                <div className="clink-icon" aria-hidden="true">in</div>
-                                <span>linkedin.com/in/mbrasiliense</span>
+                            <a href="https://wa.me/5521964820496" className="contact-item-v2" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+                                <div className="contact-icon-v2" aria-hidden="true">ws</div>
+                                <div className="contact-text-v2">
+                                    <span className="contact-label-v2">WhatsApp</span>
+                                    <span className="contact-value-v2">(21) 96482 - 0496</span>
+                                </div>
                             </a>
-                            <a href="https://github.com/mbrasiliense98" className="contact-link-item" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-                                <div className="clink-icon" aria-hidden="true">gh</div>
-                                <span>github.com/mbrasiliense98</span>
+                            <a href="https://www.linkedin.com/in/marcelobrasiliense/" className="contact-item-v2" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                                <div className="contact-icon-v2" aria-hidden="true">in</div>
+                                <div className="contact-text-v2">
+                                    <span className="contact-label-v2">LinkedIn</span>
+                                    <span className="contact-value-v2">linkedin.com/in/marcelobrasiliense</span>
+                                </div>
+                            </a>
+                            <a href="https://github.com/Marcelo-Brasiliense-IRKO" className="contact-item-v2" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                                <div className="contact-icon-v2" aria-hidden="true">gh</div>
+                                <div className="contact-text-v2">
+                                    <span className="contact-label-v2">GitHub</span>
+                                    <span className="contact-value-v2">github.com/Marcelo-Brasiliense-IRKO</span>
+                                </div>
                             </a>
                         </div>
                     </div>

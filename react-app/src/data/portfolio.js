@@ -1,7 +1,6 @@
 export const personal = {
     name: 'Marcelo Brasiliense',
     title: 'Coordenador de Desenvolvimento | Analista Contábil | Desenvolvedor Back End',
-    bio: 'Profissional com sólida experiência em Contabilidade Societária e Fiscal, atuando na implementação e modernização de ecossistemas tecnológicos contábeis. Perfil híbrido integrando Contabilidade, Tecnologia, Data Analytics e Inteligência Artificial aplicada a negócios.',
     location: 'Rio de Janeiro – RJ',
     coords: '22°54\'S 43°12\'W',
     email: 'ml.candido2014@gmail.com',
@@ -136,7 +135,8 @@ export const projects = [
         desc: 'Implementação de automações end-to-end com agentes autônomos e LLMs para análises e validações financeiras. Integrações via API entre múltiplos sistemas.',
         year: '2025',
         emoji: '🧠',
-        image: null
+        image: null,
+        githubUrl: 'https://github.com/Marcelo-Brasiliense-IRKO'
     },
     {
         id: 'p2',
@@ -145,7 +145,8 @@ export const projects = [
         desc: 'Aplicação de Inteligência Artificial para análise preditiva e desenvolvimento de integrações. Apuração estratégica de atributos e relatórios gerenciais.',
         year: '2024',
         emoji: '🤖',
-        image: null
+        image: null,
+        githubUrl: 'https://github.com/Marcelo-Brasiliense-IRKO'
     },
     {
         id: 'p3',
@@ -154,7 +155,8 @@ export const projects = [
         desc: 'Desenvolvimento de painéis gerenciais focados em redução de custos operacionais e validação de retenções tributárias.',
         year: '2023',
         emoji: '📊',
-        image: null
+        image: null,
+        githubUrl: 'https://github.com/Marcelo-Brasiliense-IRKO'
     }
 ];
 

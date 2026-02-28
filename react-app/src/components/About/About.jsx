@@ -54,9 +54,28 @@ export default function About() {
                         </h2>
 
                         <div className="about-desc about-reveal-block reveal-block">
+                            <p>Profissional com sólida experiência em Contabilidade Societária e Fiscal, atuando na implementação e modernização de ecossistemas tecnológicos contábeis. Perfil híbrido integrando Contabilidade, Tecnologia, Data Analytics e Inteligência Artificial aplicada a negócios.</p>
                             <p>Baseado no <span style={{ color: 'var(--text)', fontWeight: '500' }}>Rio de Janeiro, Brasil</span>, uno a contabilidade societária e fiscal à tecnologia de ponta.</p>
                             <p>Com mais de uma década de experiência em operações contábeis de larga escala, sou especialista em modernizar processos legados usando Python, Agentes de IA e arquiteturas em nuvem.</p>
                             <p>Minha missão é eliminar redundâncias manuais, permitindo que times contábeis evoluam do registro de dados para a consultoria estratégica de alto valor.</p>
+                        </div>
+
+                        {/* Botão de Download do Currículo */}
+                        <div className="about-reveal-block reveal-block" style={{ marginTop: '2rem' }}>
+                            <a
+                                href="/Arquivos/CV Marcelo Brasiliense_2026.pdf"
+                                download
+                                className="btn-primary"
+                                style={{
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    gap: '10px',
+                                    padding: '12px 24px',
+                                    textDecoration: 'none'
+                                }}
+                            >
+                                <span style={{ fontSize: '1.2rem' }}>⬇</span> Baixar Currículo
+                            </a>
                         </div>
 
                         {/* Estatísticas / Conquistas */}
